@@ -1,0 +1,13 @@
+Package: BayesODT
+Type: Package
+Title: Bayesian hierarchical model for oridnal classification processes
+Version: 0.1.0
+Author: Chanmin Kim 
+Maintainer: Chanmin Kim <ckim.Bayes@gmail.com>
+Description: Fitting Bayesain hierarchical model for ordianl classification data to obtain posterior distributions of the parameters.
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: truncnorm,msm,ordinal,pROC,rootSolve,utils
+RoxygenNote: 6.1.1
+
